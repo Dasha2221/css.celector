@@ -125,7 +125,7 @@ ul>li {
 }
 
 .lesson-three-task-ten p::first-line {
-    color: yellow;
+    background: yellow;
 }
 
 .lesson-three-task-eleven input::placeholder {
